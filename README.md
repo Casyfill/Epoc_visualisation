@@ -2,7 +2,7 @@ Epoc_visualisation
 ==================
 
 ![screemshot ](/img/Screenshot.png)
-part of pcode for visualising brain waves on music with Epoc
+plotting and simplification of EPOC data for visualising brain waves while listening to Music
 
 depends on:
 * matplotlib
