@@ -1,6 +1,7 @@
 Epoc_visualisation
 ==================
 
+![screemshot ](/img/Screenshot.png)
 part of pcode for visualising brain waves on music with Epoc
 
 depends on:
